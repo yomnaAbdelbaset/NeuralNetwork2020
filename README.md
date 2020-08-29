@@ -1,2 +1,2 @@
 # NeuralNetwork2020
-a python neural network codes for different purposes
+a python neural network code that detect the kind of flower using a trainig set 
